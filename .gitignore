@@ -1,0 +1,11 @@
+# Generated from a firmware image the user supplies; contains data extracted from Apple's
+# binary, so it must never be committed.
+tables.go
+
+# Test vectors tied to a specific real device (its GUID and the pairs its own iTunes made).
+thirdparty_vectors.json
+
+__pycache__/
+*.pyc
+/hash72
+*.cbk
